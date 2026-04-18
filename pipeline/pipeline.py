@@ -45,5 +45,3 @@ print(df.dtypes)
 #month = int(sys.argv[1]) # declaring an argument/variable month and instructing the system to call the script pipeline.py as the first argument
 
 #print(f'Hello pipeline, month = {month}') # Receive input from the terminal, process it based on the script instructions, print the result of the operation back to the terminal after processing it
-
-*.parquet
